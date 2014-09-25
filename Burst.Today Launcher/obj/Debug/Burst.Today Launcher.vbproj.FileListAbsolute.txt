@@ -1,0 +1,12 @@
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\bin\Debug\Burst.Today Launcher.exe.config
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\bin\Debug\Burst.Today Launcher.exe
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\bin\Debug\Burst.Today Launcher.pdb
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\bin\Debug\Burst.Today Launcher.xml
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\obj\Debug\Burst.Today_Launcher.Form1.resources
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\obj\Debug\Burst.Today_Launcher.Resources.resources
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.vbproj.GenerateResource.Cache
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.exe
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.xml
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.pdb
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\bin\Debug\Ionic.Zip.dll
+C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.vbprojResolveAssemblyReference.cache
