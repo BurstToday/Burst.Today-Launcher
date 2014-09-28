@@ -18,18 +18,21 @@
     Private Sub DownloadProgress(ByVal sender As Object, ByVal e As System.Net.DownloadProgressChangedEventArgs) Handles wc.DownloadProgressChanged
         ProgressBar1.Value = e.ProgressPercentage
         ProgressBar1.Refresh()
+        Me.Refresh()
     End Sub
 
     'Progressbar for Miner
     Private Sub DownloadProgress2(ByVal sender As Object, ByVal e As System.Net.DownloadProgressChangedEventArgs) Handles wc2.DownloadProgressChanged
         ProgressBar2.Value = e.ProgressPercentage
         ProgressBar2.Refresh()
+        Me.Refresh()
     End Sub
 
     'Progressbar for Burst.Today
     Private Sub DownloadProgress3(ByVal sender As Object, ByVal e As System.Net.DownloadProgressChangedEventArgs) Handles wc3.DownloadProgressChanged
         ProgressBar3.Value = e.ProgressPercentage
         ProgressBar3.Refresh()
+        Me.Refresh()
     End Sub
 
     'Wallet Download Complete

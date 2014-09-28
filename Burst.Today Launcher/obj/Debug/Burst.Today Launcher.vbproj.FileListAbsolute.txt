@@ -10,3 +10,7 @@ C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Laun
 C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.pdb
 C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\bin\Debug\Ionic.Zip.dll
 C:\Users\N23D\Documents\Visual Studio 2013\Projects\Burst.Today\Burst.Today Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.vbprojResolveAssemblyReference.cache
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\bin\Debug\Burst.Today Launcher.exe.config
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.exe
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.xml
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.pdb
