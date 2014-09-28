@@ -14,3 +14,10 @@ C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\bin\Debug\Burst.
 C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.exe
 C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.xml
 C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.pdb
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\bin\Debug\Burst.Today Launcher.exe
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\bin\Debug\Burst.Today Launcher.pdb
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\bin\Debug\Burst.Today Launcher.xml
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.vbprojResolveAssemblyReference.cache
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today_Launcher.Form1.resources
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today_Launcher.Resources.resources
+C:\Burst.Today Source\Burst.Today-Launcher\Burst.Today Launcher\obj\Debug\Burst.Today Launcher.vbproj.GenerateResource.Cache
