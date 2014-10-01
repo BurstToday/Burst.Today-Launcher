@@ -170,7 +170,20 @@
         'End Function)
 
         'Miner
-        Dim URL2 As String = "https://github.com/BurstProject/pocminer/archive/master.zip"
+        Dim URL2 As String
+        'Ugh I hate doing this but the pool comes from a random fucking ZIP on the internet until the douche developer implements pools
+        Dim WeAreBeingReallyStupid As Boolean = True
+        If WeAreBeingReallyStupid = True Then
+            'We are being really Stupid
+            URL2 = "https://s3-ap-southeast-1.amazonaws.com/burst-mirror/burst-pool-miner-r2.zip"
+        Else
+            'Hopefully someday we stop being stupid
+            URL2 = "https://github.com/BurstProject/pocminer/archive/master.zip"
+        End If
+
+
+
+
         Dim Path2 As String = "C:\Burst.Today\Miner.zip"
         wc2 = New System.Net.WebClient
         wc2.DownloadFileAsync(New Uri(URL2), Path2)
