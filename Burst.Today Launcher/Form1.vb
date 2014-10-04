@@ -172,7 +172,7 @@
         'Miner
         Dim URL2 As String
         'Ugh I hate doing this but the pool comes from a random fucking ZIP on the internet until the douche developer implements pools
-        Dim WeAreBeingReallyStupid As Boolean = True
+        Dim WeAreBeingReallyStupid As Boolean = False
         If WeAreBeingReallyStupid = True Then
             'We are being really Stupid
             URL2 = "https://s3-ap-southeast-1.amazonaws.com/burst-mirror/burst-pool-miner-r2.zip"
