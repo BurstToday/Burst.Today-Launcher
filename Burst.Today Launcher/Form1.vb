@@ -10,6 +10,15 @@
     
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'Back up mining configuration
+        If My.Computer.FileSystem.FileExists("C:\Burst.Today\Burst.Today\BurstTodayUI-master\mining.conf") Then
+            My.Computer.FileSystem.CopyFile("C:\Burst.Today\Burst.Today\BurstTodayUI-master\mining.conf", "C:\Burst.Today\mining.conf", True)
+        End If
+        'Back up Blockchain
+        If My.Computer.FileSystem.DirectoryExists("C:\Burst.Today\Wallet\burstcoin-master\burst_db\") Then
+            My.Computer.FileSystem.CopyDirectory("C:\Burst.Today\Wallet\burstcoin-master\burst_db\", "C:\Burst.Today\burst_db\", True)
+        End If
+
         Me.CenterToScreen()
         Button1.PerformClick()
     End Sub
