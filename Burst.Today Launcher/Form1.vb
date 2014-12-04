@@ -10,6 +10,8 @@
     
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Me.Refresh()
+
         'Back up mining configuration
         If My.Computer.FileSystem.FileExists("C:\Burst.Today\Burst.Today\BurstTodayUI-master\mining.conf") Then
             My.Computer.FileSystem.CopyFile("C:\Burst.Today\Burst.Today\BurstTodayUI-master\mining.conf", "C:\Burst.Today\mining.conf", True)
@@ -138,6 +140,7 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Me.Cursor = Cursors.WaitCursor
+        Me.Refresh()
 
         'Create Folders for download
         'C:\Burst.Today
